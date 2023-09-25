@@ -1,0 +1,37 @@
+##gff-version 3
+# Liftoff v1.6.3
+# /home/minal03/miniconda3/bin/liftoff -g /data1/CluHar/PacBio/CCS_data/Immune_response_genes/IGHV/HiCanu_Hifiasm/Annotations/making_HiCanu_gtf_file/gff/CS5_hap.gff -o /data1/CluHar/PacBio/CCS_data/Immune_response_genes/IGHV/HiCanu_Hifiasm/Annotations/making_HiCanu_gtf_file/gff/hifiasm_gff/CS5_hap2.gff -u /data1/CluHar/PacBio/CCS_data/Immune_response_genes/IGHV/HiCanu_Hifiasm/Annotations/making_HiCanu_gtf_file/gff/hifiasm_gff/unmapped/CS5_hap2 -dir /data1/CluHar/PacBio/CCS_data/Immune_response_genes/IGHV/HiCanu_Hifiasm/Annotations/making_HiCanu_gtf_file/gff/hifiasm_gff/intermediate_files/CS5_hap2 -copies /data1/CluHar/PacBio/CCS_data/Immune_response_genes/IGHV/HiCanu_Hifiasm/hifiasm_haplotypes/CS5_hap2.fa /data1/CluHar/PacBio/CCS_data/Immune_response_genes/IGHV/HiCanu_Hifiasm/Annotations/making_HiCanu_gtf_file/fasta/CS5_hap.fa
+CS5_hap2	Liftoff	gene	1	290	.	-	.	ID=gene_1;g1=;coverage=0.996;sequence_ID=0.996;extra_copy_number=0;copy_num_ID=gene_1_0
+CS5_hap2	Liftoff	gene	2328	2618	.	-	.	ID=gene_2;g2=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_2_0
+CS5_hap2	Liftoff	gene	3260	3550	.	-	.	ID=gene_3;g3=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_3_0
+CS5_hap2	Liftoff	gene	5603	5893	.	-	.	ID=gene_4;g4=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_4_0
+CS5_hap2	Liftoff	gene	7300	7591	.	-	.	ID=gene_5;g5=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_5_0
+CS5_hap2	Liftoff	gene	9756	10046	.	-	.	ID=gene_6;g6=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_6_0
+CS5_hap2	Liftoff	gene	11351	11641	.	-	.	ID=gene_7;g7=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_7_0
+CS5_hap2	Liftoff	gene	13114	13404	.	-	.	ID=gene_8;g8=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_8_0
+CS5_hap2	Liftoff	gene	14889	15179	.	-	.	ID=gene_9;g9=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_9_0
+CS5_hap2	Liftoff	gene	15819	16109	.	-	.	ID=gene_10;g10=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_10_0
+CS5_hap2	Liftoff	gene	17412	17705	.	-	.	ID=gene_11;g11=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_11_0
+CS5_hap2	Liftoff	gene	19157	19447	.	-	.	ID=gene_12;g12=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_12_0
+CS5_hap2	Liftoff	gene	20899	21189	.	-	.	ID=gene_13;g13=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_13_0
+CS5_hap2	Liftoff	gene	21843	22133	.	-	.	ID=gene_14;g14=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_14_0
+CS5_hap2	Liftoff	gene	23368	23658	.	-	.	ID=gene_15;g15=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_15_0
+CS5_hap2	Liftoff	gene	25067	25360	.	-	.	ID=gene_16;g16=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_16_0
+CS5_hap2	Liftoff	gene	26769	27062	.	-	.	ID=gene_17;g17=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_17_0
+CS5_hap2	Liftoff	gene	28468	28758	.	-	.	ID=gene_18;g18=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_18_0
+CS5_hap2	Liftoff	gene	29398	29688	.	-	.	ID=gene_19;g19=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_19_0
+CS5_hap2	Liftoff	gene	31745	32035	.	-	.	ID=gene_20;g20=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_20_0
+CS5_hap2	Liftoff	gene	32676	32966	.	-	.	ID=gene_21;g21=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_21_0
+CS5_hap2	Liftoff	gene	34276	34566	.	-	.	ID=gene_22;g22=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_22_0
+CS5_hap2	Liftoff	gene	35183	35473	.	-	.	ID=gene_23;g23=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_23_0
+CS5_hap2	Liftoff	gene	37873	38169	.	-	.	ID=gene_24;g24=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_24_0
+CS5_hap2	Liftoff	gene	39386	39658	.	-	.	ID=gene_25;g25=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_25_0
+CS5_hap2	Liftoff	gene	42844	43134	.	-	.	ID=gene_26;g26=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_26_0
+CS5_hap2	Liftoff	gene	44046	44336	.	-	.	ID=gene_27;g27=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_27_0
+CS5_hap2	Liftoff	gene	45865	46227	.	-	.	ID=gene_28;g28=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_28_0
+CS5_hap2	Liftoff	gene	48256	48552	.	-	.	ID=gene_29;g29=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_29_0
+CS5_hap2	Liftoff	gene	50012	50314	.	-	.	ID=gene_30;g30=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_30_0
+CS5_hap2	Liftoff	gene	54016	54312	.	-	.	ID=gene_31;g31=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_31_0
+CS5_hap2	Liftoff	gene	55772	56074	.	-	.	ID=gene_32;g32=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_32_0
+CS5_hap2	Liftoff	gene	58954	59244	.	-	.	ID=gene_33;g33=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_33_0
+CS5_hap2	Liftoff	gene	60323	60625	.	-	.	ID=gene_34;g34=;coverage=1.0;sequence_ID=1.0;extra_copy_number=0;copy_num_ID=gene_34_0
